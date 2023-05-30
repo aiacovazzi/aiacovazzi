@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aiacovazzi
-- 👀 I’m interested in databases, app and game development, data science, computer art
-- 🌱 I’m currently learning phyton, processing, max/msp 8
+- 👀 I’m interested in databases, game development, machine learning and computer art
+- 🌱 I’m currently learning phyton, processing, max/msp 8 and prolog
 - 📫 How to reach me: ar.iacovazzi@gmail.com
 
 <!---
